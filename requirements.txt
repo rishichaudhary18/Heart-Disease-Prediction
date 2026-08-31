@@ -1,6 +1,5 @@
-Following are the requirements:
-1. streamlit
-2. pandas
-3. numpy
-4. scikit-learn==1.6.1
-5. joblib
+streamlit
+pandas
+numpy
+scikit-learn==1.6.1
+joblib
