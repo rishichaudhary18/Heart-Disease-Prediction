@@ -43,13 +43,13 @@ The trained model, feature scaler, and expected input columns are saved using **
 
 The application provides an interactive interface where users can enter patient health and cardiovascular information.
 
-![Heart Disease Prediction Dashboard](screenshots/dashboard.png)
+![Heart Disease Prediction Dashboard](Screenshots/dashboard.png)
 
 ### ✅ Prediction Result
 
 After submitting the patient information, the trained KNN model generates a heart disease risk prediction.
 
-![Heart Disease Prediction Result](screenshots/prediction.png)
+![Heart Disease Prediction Result](Screenshots/prediction.png)
 
 ---
 
